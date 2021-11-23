@@ -6,5 +6,5 @@ setuptools-git-versioning
 requests-mock
 pytest-mock
 pytest-cov
-flake
+black
 twine
